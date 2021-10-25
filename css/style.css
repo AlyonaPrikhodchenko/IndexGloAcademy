@@ -671,6 +671,30 @@ body {
     .tabs-card-content {
         width: 380px;
     }
+
+    .footer-logo {
+        height: 50px;
+        width: 102px;
+        margin-right: 20px;
+    }
+    
+    .footer-link {
+        margin-right: 20px;
+        font-size: 10px;
+        line-height: 16px;
+        color: #000000;
+    }
+    
+    .social-links {
+        display: flex;
+        align-items: center;
+        margin-left: auto;
+    }
+    
+    .social-link {
+        margin-left: 10px;
+        text-decoration: none;
+    }
 }
 
 @media(max-width: 390px) {
